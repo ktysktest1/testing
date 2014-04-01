@@ -10,7 +10,7 @@ class Test
     public function test()
     {
         return array(
-            'test' => 'test2',
+            'test' => 'test3',
             'other' => true
         );
     }
